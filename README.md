@@ -3,7 +3,7 @@
 # AD-prereqs
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This project demonstrates how to set up and manage Active Directory (AD) in a Windows Server environment. It includes user and group management, group policy configurations, and typical administrative scenarios for IT labs or training purposes.<br />
 
 
 <h2>Video Demonstration</h2>
