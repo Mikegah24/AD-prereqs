@@ -22,15 +22,11 @@ This project demonstrates how to set up and manage Active Directory (AD) in a Wi
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
-<h2>Configuration Steps</h2>
+<h2>User and Group Management</h2>
+<h3>Create Users</h3>
+Example:
+- Tony Stark
+- Steve Rogers(Domain Admin)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
