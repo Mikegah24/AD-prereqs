@@ -15,6 +15,8 @@ This project demonstrates how to set up and manage Active Directory (AD) in a Wi
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- Virtualization platform (e.g., VirtualBox, VMware, Hyper-V)
+- Admin Privileges
 
 <h2>Operating Systems Used </h2>
 
