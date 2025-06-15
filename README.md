@@ -2,7 +2,7 @@
 
 # AD-prereqs
 
-<h1>osTicket - Post-Install Configuration</h1>
+<h1>Install Active Directory Domain Services (AD DS)</h1>
 This project demonstrates how to set up and manage Active Directory (AD) in a Windows Server environment. It includes user and group management, group policy configurations, and typical administrative scenarios for IT labs or training purposes.<br />
 
 
