@@ -23,6 +23,11 @@ This project demonstrates how to set up and manage Active Directory (AD) in a Wi
 - Windows 10</b> (21H2)
 
 <h2>User and Group Management</h2>
+<h3>Create groups</h3>
+
+-  Create ADMINS group (_ADMINS)
+-  Create AVENGERS group (_AVENGERS)
+
 <h3>Create Users</h3>
 
 Start Menu --> navigate to Windows Administration tools --> Active Directory Users and Computers
