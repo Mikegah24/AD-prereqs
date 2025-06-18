@@ -8,7 +8,7 @@ This project demonstrates how to set up and manage Active Directory (AD) in a Wi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -25,9 +25,9 @@ This project demonstrates how to set up and manage Active Directory (AD) in a Wi
 <h2>User and Group Management</h2>
 <h3>Create Users</h3>
 Example:
-- Tony Stark
-- Steve Rogers(Domain Admin)
 
+- Tony Stark (User)
+- Steve Rogers(Domain Admin)
 
 <p>
 <img src="2025-06-16 16_40_01-Window.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
