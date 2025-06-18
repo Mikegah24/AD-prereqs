@@ -28,6 +28,9 @@ This project demonstrates how to set up and manage Active Directory (AD) in a Wi
 -  Create ADMINS group (_ADMINS)
 -  Create AVENGERS group (_AVENGERS)
 
+<img src="2025-06-16 16_40_01-Window.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 <h3>Create Users</h3>
 
 Start Menu --> navigate to Windows Administration tools --> Active Directory Users and Computers
