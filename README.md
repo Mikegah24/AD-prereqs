@@ -24,13 +24,17 @@ This project demonstrates how to set up and manage Active Directory (AD) in a Wi
 
 <h2>User and Group Management</h2>
 <h3>Create Users</h3>
+
+Start Menu --> navigate to Windows Administration tools --> Active Directory Users and Computers
+
+<img src="2025-06-16 16_40_01-Window.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Example:
 
 - Tony Stark (User)
 - Steve Rogers(Domain Admin)
 
 <p>
-<img src="2025-06-16 16_40_01-Window.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="2025-06-16 16_40_01-Window.png)"/>
 <img src="2025-06-16 16_42_06-74.249.97.24 - Remote Desktop Connection.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
