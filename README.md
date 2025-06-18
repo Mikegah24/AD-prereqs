@@ -26,7 +26,7 @@ This project demonstrates how to set up and manage Active Directory (AD) in a Wi
 <h3>Create groups</h3>
 
 -  Create ADMINS group (_ADMINS)
--  Create AVENGERS group (_AVENGERS)
+-  Create AVENGERS group (_AVENGERS) 
 
 <img src="2025-06-16 16_40_59-74.249.97.24 - Remote Desktop Connection.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -39,7 +39,7 @@ Start Menu --> navigate to Windows Administration tools --> Active Directory Use
 Example:
 
 - Tony Stark (User)
-- Steve Rogers(Domain Admin)
+- Steve Rogers(Domain Admin) in the admins OU.
 
 <p>
 <img src="2025-06-16 16_40_01-Window.png)"/>
